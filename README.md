@@ -1,1 +1,23 @@
 # oopsAssignmentQuestions
+BTCS202M: Assignment 1 (Theory & Practical)
+1.What is the fundamental difference between procedural and object-oriented programming paradigms? Provide a brief example to illustrate.
+
+2.Define Object-Oriented Programming (OOP). What are its core characteristics?
+3.Explain the concept of "abstraction" within the context of OOP. Why is it important?
+4.What are the benefits of using OOP over procedural programming?
+5.Give a real-world example of a problem that is well-suited to be solved using an OOP approach. Explain why.
+6.Define the four key principles of OOP: Encapsulation, Inheritance, Polymorphism, and Abstraction.
+7.Explain how encapsulation helps to protect data and create modular code. Give an example using a class and its members.
+8.What is inheritance? How does it promote code reuse and maintainability? Provide a simple example using classes.
+9.Describe polymorphism. How does it contribute to flexibility and extensibility in software design? Give examples of function/operator overloading and function overriding.
+10.Explain the difference between "overloading" and "overriding".
+11.List at least three advantages of using OOP in software development.
+12.Give examples of application domains where OOP is commonly used (e.g., GUI development, game programming, etc.).
+13.Discuss the impact of OOP on code maintainability and reusability.
+14.How does OOP contribute to the development of large and complex software systems?
+15.Explain the benefits of using OOP in software development.
+16.Describe the basic structure of a C++ program. What are the essential components?
+17.Explain the purpose of namespaces in C++. How do they help to avoid naming conflicts?
+18.What are identifiers in C++? What rules must be followed when creating them?
+19.What are the differences between variables and constants in C++? How are they declared?
+20.Explain how to use control structures (e.g., if-else, for, while) to control the flow of execution in a C++ program. Provide a simple code example
