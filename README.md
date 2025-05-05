@@ -1,1 +1,2 @@
-For object oriented programming assignment questions there are two folders wherein first is theory questions and second one for practical questions.
+[oops_assignmentquestions.docx](https://github.com/user-attachments/files/20041072/oops_assignmentquestions.docx)
+[oops_assignment.pdf](https://github.com/user-attachments/files/20041076/oops_assignment.pdf)
